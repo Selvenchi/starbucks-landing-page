@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+body {
+  background-color: white;
+}
+
+:root {
+  --clr-green: rgb(6, 97, 66);
+  --clr-dark-green: rgb(39, 49, 47);
+  --clr-black: rgb(36, 36, 36);
+  --clr-light-green: rgb(217, 234, 230);
+}
